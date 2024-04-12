@@ -103,7 +103,7 @@ END
 
 START
 Einfach
-Vorderseite: Was definiert das IT-Schutzgesetz 2.0?
+Vorderseite: Was definiert das IT-Sicherheitsgesetz 2.0?
 Rückseite:
 * Betrifft KRITIS und UNBÖFI
 * Unter Kontrolle der BSI
