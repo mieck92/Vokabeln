@@ -315,3 +315,23 @@ Vorderseite: Was ist Multi-Faktor-Authentifizierung (MFA)?
 Rückseite: MFA erhöht die Sicherheit durch mindestens zwei Authentifizierungsmethoden
 END
 
+
+START
+Einfach
+Vorderseite: Was ist FMEA?
+Rückseite: Failure Mode and Effects Analysis
+END
+
+
+START
+Einfach
+Vorderseite: Welche Punkte beinhaltet FMEA (Failure Mode and Effects Analysis)?
+Rückseite: 
+1. Planung und Vorbereitung
+2. Strukturanalyse
+3. Funktionsanalyse
+4. Fehleranalyse
+5. Risiko- und Maßnahmenanalyse
+6. Optimierung und Umsetzung
+7. Ergebnis-Dokumentation
+END
